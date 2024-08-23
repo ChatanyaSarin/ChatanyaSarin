@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ChatanyaSarin
 - 👀 I’m interested in AI and Machine Learning
 - 👨‍🎓 I am a student at Purdue University majoring in Data Science
 <!---
